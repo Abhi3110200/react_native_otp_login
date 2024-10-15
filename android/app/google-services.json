@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337151500212",
+    "project_id": "authotp-5d50d",
+    "storage_bucket": "authotp-5d50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337151500212:android:18fa298b60f4e94e7b9ce1",
+        "android_client_info": {
+          "package_name": "com.adx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54gNa1TsK0fyo5W0aJKH-1h1CHwrV4Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337151500212:android:b3b766d476a5552d7b9ce1",
+        "android_client_info": {
+          "package_name": "com.company.adx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54gNa1TsK0fyo5W0aJKH-1h1CHwrV4Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
